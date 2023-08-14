@@ -6,3 +6,4 @@ openai
 flask
 pydantic==1.10.9
 python-dotenv
+sqlite3 >= 3.35.0
