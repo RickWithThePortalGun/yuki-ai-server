@@ -5,4 +5,4 @@ chromadb
 openai
 flask
 uvicorn
-dotenv
+python-dotenv
