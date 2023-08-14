@@ -1,5 +1,6 @@
 langchain
 pypdf
+pypdf2
 chromadb
 openai
 flask
