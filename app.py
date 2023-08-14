@@ -13,11 +13,13 @@ app = Flask(__name__)
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 
+
 # Your API key
 os.environ["OPENAI_API_KEY"] = api_key
 
+
 # Set up your PDF processing components here
-pdf_path = "https://drive.usercontent.google.com/download?id=1pWCM0j-nhQQjxwGoG-EFvTl7OdbCiuNj&export=download&authuser=0&confirm=t&uuid=2b41f08e-d68f-4fdb-a005-5c7bde0420dc&at=APZUnTUxZRvxk6uJLdm8LbVh3ICj:1692026709696"
+pdf_path = "goz-kommentar-bzaek.pdf"
 loader = PyPDFLoader(pdf_path)
 pages = loader.load_and_split()
 embeddings = OpenAIEmbeddings()
