@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 import os
+from dotenv import load_dotenv
 from langchain.document_loaders import PyPDFLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
@@ -9,8 +10,11 @@ from langchain.llms import OpenAI
 
 app = Flask(__name__)
 
+load_dotenv()
+api_key = os.getenv("OPENAI_API_KEY")
+
 # Your API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = api_key
 
 # Set up your PDF processing components here
 pdf_path = r"C:\Users\Oyeniyi Victor\Downloads\Documents\goz-kommentar-bzaek.pdf"
