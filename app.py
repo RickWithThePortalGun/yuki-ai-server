@@ -13,10 +13,8 @@ app = Flask(__name__)
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 
-
 # Your API key
 os.environ["OPENAI_API_KEY"] = api_key
-
 
 # Set up your PDF processing components here
 pdf_path = "goz-kommentar-bzaek.pdf"
@@ -30,9 +28,11 @@ pdf_qa = ConversationalRetrievalChain.from_llm(
     OpenAI(temperature=0.8), vectordb.as_retriever(), memory=memory
 )
 
-
-@app.route("/get_answer", methods=["POST"])
+@app.route("/get_answer", methods=["POST", "GET"])
 def get_answer():
+    if request.method == "GET":
+        return jsonify({"message": "Hello, I am Yuki's AI"})
+
     data = request.json
     question = data.get("question")
 
@@ -44,8 +44,6 @@ def get_answer():
 
     return jsonify({"answer": answer})
 
-
 if __name__ == "__main__":
     import uvicorn
-
     uvicorn.run(app, host="0.0.0.0", port=5000)
