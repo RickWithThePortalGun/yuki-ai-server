@@ -3,4 +3,3 @@ pypdf
 chromadb
 openai
 flask
-tiktoken
