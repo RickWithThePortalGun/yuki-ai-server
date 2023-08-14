@@ -4,5 +4,5 @@ pypdf2
 chromadb
 openai
 flask
-uvicorn
+pydantic==1.10.9
 python-dotenv
