@@ -4,4 +4,4 @@ pypdf2
 chromadb
 openai
 flask
-gunicorn
+uvicorn
