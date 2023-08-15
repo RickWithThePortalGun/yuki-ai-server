@@ -1,6 +1,6 @@
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# import sys
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from flask import Flask, request, jsonify
 import os
 from dotenv import load_dotenv
@@ -48,5 +48,4 @@ def get_answer():
     return jsonify({"answer": answer})
 
 if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=10000)
+    app.run(host="0.0.0.0", port=10000)
