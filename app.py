@@ -9,6 +9,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
+from langchain.chat_models import ChatOpenAI
 from langchain.llms import OpenAI
 
 app = Flask(__name__)
@@ -27,9 +28,8 @@ embeddings = OpenAIEmbeddings()
 vectordb = Chroma.from_documents(pages, embedding=embeddings, persist_directory=".")
 vectordb.persist()
 memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
-pdf_qa = ConversationalRetrievalChain.from_llm(
-    OpenAI(temperature=0.8), vectordb.as_retriever(), memory=memory
-)
+# llm = ChatOpenAI(model_name='gpt-4')
+pdf_qa = ConversationalRetrievalChain.from_llm(OpenAI(model_name="gpt-3.5-turbo-16k",temperature=0.8), vectordb.as_retriever(), memory=memory)
 
 @app.route("/get_answer", methods=["POST", "GET"])
 def get_answer():
