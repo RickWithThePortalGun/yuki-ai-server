@@ -1,0 +1,488 @@
+                                                           1,0-      2,3-    3,5-
+GOZ-                                   BEMA-               facher-   facher- facher-
+Position Info                          Analog    PunktzahlSatz       Satz    Satz
+GOZ      Untersuchung und              BEMA 01
+0010     Befunderhebung                (U)              1005,62 €    12,94 € 19,68 €
+GOZ
+0030     HKP für Zahnbehandlung        N. a.            20011,25 €   25,87 € 39,37 €
+GOZ
+0040     HKP für Kieferorthopädie      BEMA 5           25014,06 €   32,34 € 49,21 €
+GOZ      Modelle des Ober- oder
+0050     Unterkiefers                  N. a.            1206,75 €    15,52 € 23,62 €
+GOZ      Modell beider Kiefer mit
+0060     Bissfixierung                 BEMA 7a          26014,62 €   33,63 € 51,18 €
+GOZ      Digitale Darstellung des
+0065     Mundinneren                   N. a.             804,5 €     10,35 € 15,75 €
+GOZ      Vitalitätsprüfung mit         BEMA 8
+0070     Vergleichstest                (ViPr)            502,81 €    6,47 € 9,84 €
+GOZ      Betäubung der Mund-
+0080     Schleimhaut                   N. a.             301,69 €    3,88 € 5,91 €
+GOZ
+0090     Betäubung einzelner Zähne BEMA 40 (I)           603,37 €    7,76 € 11,81 €
+GOZ                                    BEMA 41-a
+0100     Betäubung eines Zahnnervs (L1)                  703,94 €    9,05 € 13,78 €
+GOZ
+0110     Operation mit Mikroskop       N. a.            40022,5 €    N. a.     N. a.
+GOZ
+0120     Operation mit Laser           N. a.     N. a.     N. a.     N. a.     N. a.
+GOZ      Mundhygienestatus mit
+1000     Unterweisung                  BEMA IP1         20011,25 €   25,87 € 39,37 €
+GOZ      Übungskontrolle
+1010     Mundhygienestatus             N. a.            1005,62 €    12,94 € 19,68 €
+GOZ
+1020     Fluoridierung                 BEMA IP4          502,81 €    6,47 € 9,84 €
+GOZ
+1030     Medikamentenschiene           N. a.             905,06 €    11,64 € 17,72 €
+GOZ                                    BEMA 107
+1040     Professionelle Zahnreinigung(Zst)               281,57 €    3,62 € 5,51 €
+GOZ
+2000     Versiegelung Zahnfissuren BEMA IP5              905,06 €    11,64 € 17,72 €
+GOZ      Behandlung empfindlicher BEMA 10
+2010     Zähne                         (üZ)              502,81 €    6,47 € 9,84 €
+GOZ      Provisorischer                BEMA 11
+2020     Zahnverschluss                (pV)              985,51 €    12,68 € 19,29 €
+GOZ      Maßnahmen bei                 BEMA 12
+2030     Zahndefekten                  (bMF)             653,66 €    8,41 € 12,8 €
+GOZ      Trockenlegung mit             BEMA 12
+2040     Kofferdamm                    (bMF)             653,66 €    8,41 € 12,8 €
+GOZ                                    BEMA 13-a
+2050     Einflächige Zahnfüllung       (F1)             21311,98 €   27,55 € 41,93 €
+GOZ                                                                          103,74
+2060     Einflächige Kompositfüllung BEMA 13-e          52729,64 €   68,17 € €
+GOZ                                    BEMA 13-b
+2070     Zweiflächige Zahnfüllung      (F2)             24213,61 €   31,3 € 47,64 €
+GOZ                                                                          109,45
+2080     Zweiflächige KompositfüllungBEMA 13-f          55631,27 €   71,92 € €
+GOZ                                    BEMA 13-c
+2090     Dreiflächige Zahnfüllung      (F3)             29716,7 €    38,42 € 58,46 €
+GOZ                                                                          126,38
+2100     Dreiflächige Kompositfüllung BEMA 13-g         64236,11 €   83,05 € €
+GOZ      Mehr als dreiflächige         BEMA 13-d
+2110     Zahnfüllung                   (F4)             31917,94 €   41,26 € 62,79 €
+GOZ      Kompositfüllung, mehr als                                           151,57
+2120     dreiflächig                   N. a.            77043,31 €   99,6 € €
+GOZ
+2130     Füllungspolitur               N. a.            1045,85 €    13,45 € 20,47 €
+GOZ
+2150     Einflächiges Inlay            N. a.           114164,17 €   147,6 €   224,6 €
+GOZ                                                                  175,41    266,93
+2160     Zweiflächiges Inlay           N. a.           135676,26 €   €         €
+GOZ                                                                  221,07    336,41
+2170     Inlay, mindestens dreiflächig N. a.           170996,12 €   €         €
+GOZ                                    BEMA 13-b
+2180     Kronen-Vorbereitung           (F2)             1508,44 €    19,4 € 29,53 €
+GOZ
+2190     Gegossener Stiftaufbau        BEMA 18-b        45025,31 €   58,21 € 88,58 €
+GOZ
+2195     Glasfaserstift für eine Krone BEMA 18-a        30016,87 €   38,81 € 59,05 €
+GOZ                                     BEMA 16
+2197     Geklebter Zahnersatz           (St)                 1307,31 € 16,82 €   25,59 €
+GOZ      Tangentialpräparation                                          171,01   260,23
+2200     (Krone)                        BEMA 20-a           132274,35 € €        €
+GOZ      Hohlkehl- oder                                                 217,06   330,31
+2210     Stufenpräparation (Krone)      BEMA 20-b           167894,37 € €        €
+GOZ                                                             116,25 267,38    406,88
+2220     Teilkrone, Veneer              BEMA 20-c           2067€       €        €
+GOZ      Teilleistungen (Hälfte der
+2230     Gebühr)                        BEMA 22     N. a.       N. a.   N. a.    N. a.
+GOZ      Teilleistungen (drei Viertel
+2240     der Gebühr)                    BEMA 22     N. a.       N. a.   N. a.    N. a.
+GOZ
+2250     Vorgefertigte Krone            BEMA 14              21011,81 € 27,16 € 41,34 €
+GOZ      Provisorium OHNE
+2260     Abformung                      N. a.                1005,62 € 12,94 € 19,68 €
+GOZ
+2270     Provisorium MIT Abformung BEMA 19                   27015,19 € 34,93 € 53,15 €
+GOZ                                BEMA 23
+2290     Defekter Zahnersatz       (Ekr)                     18010,12 € 23,28 € 35,43 €
+GOZ
+2300     Wurzelstift-Entfernung      N. a.                   27015,19 € 34,93 € 53,15 €
+GOZ      Erneutes Eingliedern von
+2310     Zahnersatz                  BEMA 24-a               1458,16 € 18,76 € 28,54 €
+GOZ      Reparatur von festsitzendem
+2320     Zahnersatz                  BEMA 24-b               35019,68 € 45,27 € 68,9 €
+GOZ      Maßnahmen zum Erhalt des BEMA 25
+2330     Zahnnervs                   (Cp)                    1106,19 € 14,23 € 21,65 €
+GOZ
+2340     Freiliegender Zahnnerv       BEMA 26 (P)            20011,25 € 25,87 € 39,37 €
+GOZ      Teil-Entfernung des          BEMA 27
+2350     Zahnnervs                    (Pulp)                 29016,31 € 37,51 € 57,09 €
+GOZ                                   BEMA 28
+2360     Entfernung des Zahnmarks (VitE)                     1106,19 € 14,23 € 21,65 €
+GOZ      Analogleistung:              BEMA 29
+2365-a   Devitalisieren einer Pulpa   (Dev)                     €       €        €
+GOZ      Entfernung der Pulpa
+2380     (Milchzahn)                  N. a.                  1609 €     20,7 € 31,5 €
+GOZ                                   BEMA 31
+2390     Eröffnung der Zahnhöhle      (Trep1)                 653,66 € 8,41 € 12,8 €
+GOZ      Elektrometrische
+2400     Längenmessung                N. a.                   703,94 € 9,05 € 13,78 €
+GOZ                                   BEMA 32
+2410     Wurzelkanal-Aufbereitung (WK)                       39222,05 € 50,71 € 77,16 €
+GOZ      Wurzelkanalaufbereitung mit
+2420     Ultraschall                  N. a.                   703,94 € 9,05 € 13,78 €
+GOZ                                   BEMA 34
+2430     Medikament als Zahneinlage (Med)                    20411,47 € 26,39 € 40,16 €
+GOZ                                   BEMA 35
+2440     Wurzelfüllung                (WF)                   25814,51 € 33,37 € 50,79 €
+GOZ      Extraktion einwurzeliger     BEMA 43
+3000     Zähne                        (X1)                    703,94 € 9,05 € 13,78 €
+GOZ      Extraktion mehrwurzeliger BEMA 44
+3010     Zähne                        (X2)                   1106,19 € 14,23 € 21,65 €
+GOZ      Extraktion frakturierter     BEMA 45
+3020     Zähne                        (X3)                   27015,19 € 34,93 € 53,15 €
+GOZ                                   BEMA 47-a
+3030     Extraktion durch Osteotomie (Ost1)                  35019,68 € 45,27 € 68,9 €
+GOZ      Osteotomie bei verlagerten BEMA 48
+3040     Zähnen                       (Ost2)                 54030,37 € 69,85 € 106,3 €
+GOZ      Osteotomie bei gefährdeten                                             150,98
+3045     Nachbarstrukturen            N. a.                  76743,14 € 99,22 € €
+GOZ      Stillung einer übermäßigen BEMA 36
+3050     Blutung                      (Nbl1)                 1106,19 € 14,23 € 21,65 €
+GOZ      Blutstillung durch spezielle BEMA 37
+3060     Maßnahmen                    (Nbl2)                 1407,87 € 18,11 € 27,56 €
+GOZ                                   BEMA 49
+3070     Exzision von Gewebe          (Exz1)                  452,53 € 5,82 € 8,86 €
+GOZ      Entfernen einer großen       BEMA 50
+3080     Wucherung                    (Exz2)                 1508,44 € 19,4 € 29,53 €
+GOZ                                   BEMA 51-a
+3090     Kieferhöhlen-Verschluss      (Pla0)                 37020,81 € 47,86 € 72,83 €
+GOZ                                   BEMA
+3100     Plastische Deckung           Ä2382 ()               27015,19 € 34,93 € 53,15 €
+GOZ      Wurzelspitzen-Entfernung BEMA 54-a
+3110     (Frontzahn)                  (WR1)                  46025,87 € 59,5 € 90,55 €
+GOZ    Wurzelspitzen-Resektion   BEMA 54-b                         114,17
+3120   (Seitenzahn)              (WR2)          58032,62 € 75,03 € €
+GOZ    Hemisektion & Teil-       BEMA 47-b
+3130   Extratkion                (Hem)                15,75 € 36,22 €
+                                                280                55,12 €
+GOZ                              BEMA 55                           108,27
+3140   Reimplantation            (RI)           55030,93 € 71,15 € €
+GOZ                                                                127,95
+3160   Zahntransplantation        N. a.         65036,56 € 84,08 € €
+GOZ                               BEMA 56-c
+3190   Zystektomie mit anderer OP (Zy3)         27015,19 € 34,93 € 53,15 €
+GOZ                               BEMA 56-a
+3200   Entfernung einer Zyste     (Zy1)         50028,12 € 64,68 € 98,42 €
+GOZ    Schleimhautbänder-         BEMA 57
+3210   Beseitigung                (SMS)         1407,87 € 18,11 € 27,56 €
+GOZ    Knochenresektion für       BEMA 58
+3230   Prothesenlager             (KnR)         44024,75 € 56,92 € 86,61 €
+GOZ    Vestibulum- oder           BEMA 59                          108,27
+3240   Mundboden-Plastik          (Pla2)        55030,93 € 71,15 € €
+GOZ    Tuberplastik für           BEMA 60
+3250   Prothesenlager             (Pla3)        27015,19 € 34,93 € 53,15 €
+GOZ    Freilegen zur KFO-         BEMA 63                          108,27
+3260   Einstellung                (FI)          55030,93 € 71,15 € €
+GOZ                               BEMA 48                          116,14
+3270   Entfernung eines Zahnkeims (Ost2)        59033,18 € 76,32 € €
+GOZ    Korrektur des              BEMA 61
+3280   Lippenbändchens            (Dia)         27015,19 € 34,93 € 53,15 €
+GOZ
+3290   Kontrolle nach Eingriff   N. a.           553,09 € 7,11 € 10,83 €
+GOZ                              BEMA 38
+3300   Nachbehandlung nach OP    (N)             653,66 € 8,41 € 12,8 €
+GOZ    Chirurgische              BEMA 46
+3310   Nachbehandlung            (XN)           1005,62 € 12,94 € 19,68 €
+GOZ    Befund des
+4000   Zahnhalteapparates        BEMA 4         1609 €       20,7 € 31,5 €
+GOZ
+4005   Index-Erhebung               BEMA 04      804,5 €     10,35 € 15,75 €
+GOZ    Behandlung der               BEMA 105
+4020   Mundschleimhaut              (Mu)         452,53 € 5,82 € 8,86 €
+       Subgingivale
+GOZ    medikamentöse
+4025   Lokalapplikation             N. a.        150,84 € 1,94 € 2,95 €
+       Beseitigung von Zahnkanten
+GOZ    und störenden                BEMA 106
+4030   Prothesenrändern             (sK)         351,97 € 4,53 € 6,89 €
+       Beseitigung von
+GOZ    Vorkontakten durch
+4040   Einschleifen                 BEMA 108     452,53 € 5,82 € 8,86 €
+       Entfernung harter und
+       weicher Zahnbeläge,
+GOZ    einwurzeliger Zahn oder      BEMA 107
+4050   Implantat,                   (Zst)        100,56 € 1,29 € 1,97 €
+       Entfernung harter und
+GOZ    weicher Zahnbeläge,          BEMA 107
+4055   mehrwurzeliger Zahn          (Zst)        130,73 € 1,68 € 2,56 €
+       Kontrolle nach Entfernung
+GOZ    harter und weicher
+4060   Zahnbeläge                   N. a.         70,39 € 0,91 € 1,38 €
+GOZ    Parodontalchirurgische
+4070   Therapie, einwurzelig        N. a.       1005,62 € 12,94 € 19,68 €
+GOZ    Parodontalchirurgische
+4075   Therapie, mehrwurzelig       N. a.       1307,31 € 16,82 € 25,59 €
+GOZ    Gingivektomie oder
+4080   Gingivoplastik               N. a.        452,53 € 5,82 € 8,86 €
+       Lappenoperation
+GOZ    einschließlich Osteoplastik,
+4090   Frontzahn                    BEMA P202   18010,12 € 23,28 € 35,43 €
+       Lappenoperation
+GOZ    einschließlich Osteoplastik,
+4100   Seitenzahn                   BEMA P203   27515,47 € 35,57 € 54,13 €
+       Auffüllen von
+GOZ    Knochendefekten mit
+4110   Aufbaumaterial               N. a.       18010,12 € 23,28 € 35,43 €
+GOZ    Verlegen eines gestielten
+4120   Schleimhautlappens           N. a.       27515,47 € 35,57 € 54,13 €
+       Gewinnung und
+GOZ    Transplantation von
+4130   Schleimhaut                  N. a.       18010,12 € 23,28 € 35,43 €
+       Gewinnung und
+GOZ    Transplantation von                                       113,83 173,23
+4133   Bindegewebe                 N. a.              88049,49 € €      €
+       Osteoplastik, auch
+       Kronenverlängerung,
+GOZ    Tunnelierung
+4136                                 N. a.              20011,25 €   25,87 € 39,37 €
+GOZ    Membran zur Behandlung
+4138   eines Knochendefektes         N. a.              22012,37 €   28,46 € 43,31 €
+       Kontrolle nach
+GOZ    parodontalchirurgischen
+4150   Maßnahmen                     BEMA 111             70,39 €    0,91 € 1,38 €
+GOZ    Brücken oder Prothesen in                                     131,43
+5000   Tangentialpräparation         BEMA 91-a         101657,14 €   €      200 €
+       Brücken oder Prothesen in
+GOZ    Hohlkehl- und                                                 191,84   291,92
+5010   Stufenpräparation             BEMA 91-a         148383,41 €   €        €
+GOZ    Brücken oder Prothesen an                           112,32    258,33
+5020   Teilkronen                    BEMA 91-c         1997€         €        393,1 €
+GOZ    Brücken oder Prothesen an                                     191,84   291,92
+5030   Wurzelkappe mit Stift         BEMA 90           148383,41 €   €        €
+GOZ    Brücken oder Prothesen auf                          146,51    336,97   512,79
+5040   Teleskop- und Konuskronen BEMA 91-d             2605€         €        €
+GOZ    Ende nach Präparation bei
+5050   Z5000 bis Z5040               BEMA 94-a N. a.       N. a.     N. a.    N. a.
+GOZ    Mehr als Präparation bei
+5060   Z5000 bis Z5040               BEMA 94-b N. a.       N. a.     N. a.    N. a.
+GOZ    Verbindung von Kronen oder
+5070   Inlays durch Brückenglieder BEMA 92              40022,5 €    51,74 € 78,74 €
+GOZ    Brücken oder Prothesen mit
+5080   Matrize oder Patrize          BEMA 91-e          23012,94 €   29,75 € 45,27 €
+       Wiederherstellung der
+GOZ    Funktion eines
+5090   Verbindungselements           N. a.              1106,19 €    14,23 € 21,65 €
+GOZ    Erneuern des Sekundärteils
+5100   einer Teleskopkrone           BEMA 91-d          45025,31 €   58,21 € 88,58 €
+GOZ    Wiedereingliederung einer
+5110   endgültigen Brücke            BEMA 95-a          36020,25 €   46,57 € 70,87 €
+GOZ    Provisorische Brücke im
+5120   direkten Verfahren, je Zahn BEMA 19              24013,5 €    31,05 € 47,24 €
+       Provisorische Brücke im
+GOZ    direkten Verfahren, je
+5140   Brückenspanne                 BEMA 19             804,5 €     10,35 € 15,75 €
+GOZ    In Adhäsivtechnik befestigte
+5150   Brücke, erste Spanne          BEMA 93-a          73041,06 €   94,43 € 143,7 €
+GOZ    In Adhäsivtechnik befestigte
+5160   Brücke, weitere Spannen       N. a.              36020,25 €   46,57 € 70,87 €
+       Anatomische Abformung des
+GOZ    Kiefers mit individuellem
+5170   Löffel                        BEMA 98-a          25014,06 €   32,34 € 49,21 €
+       Funktionelle Abformung des
+GOZ    Oberkiefers mit individuellem
+5180   Löffel                        BEMA 98-b          45025,31 €   58,21 € 88,58 €
+       Funktionelle Abformung des
+GOZ    Unterkiefers mit
+5190   individuellem Löffel          BEMA 98-c          54030,37 €   69,85 € 106,3 €
+GOZ    Teilprothese mit einfachen,                                           137,79
+5200   gebogenen Haftelementen BEMA 96-a                70039,37 €   90,55 € €
+                                     BEMA
+       Modellgussprothese mit        Kombination:
+GOZ    gegossenen Halte- und         69-a + 98-g                             275,59
+5210   Stützelementen                + 98-h            140078,74 €   181,1 € €
+                                     BEMA
+GOZ    Totale Prothese bei           Kombination:          104,05    239,31 364,17
+5220   zahnlosem Oberkiefer          97-a +98-e        1850€         €      €
+                                     BEMA
+GOZ    Totale Prothese bei           Kombination:          123,73    284,59 433,06
+5230   zahnlosem Unterkiefer         97-b + 98-e       2200€         €      €
+       Ende nach Bestimmung der BEMA
+GOZ    Kieferrelation bei Z5200 bis Kombination:
+5240   Z5230                         99-b-c      N. a.     N. a.     N. a.    N. a.
+       Maßnahmen an
+GOZ    abnehmbaren Prothesen
+5250   OHNE Abformung                BEMA 100-a         1407,87 €    18,11 € 27,56 €
+       Maßnahmen an
+GOZ    abnehmbaren Prothesen MIT
+5260   Abformung                     BEMA 100-b         27015,19 €   34,93 € 53,15 €
+GOZ    Teilunterfütterung einer
+5270   Prothese                     BEMA 100-c     18010,12 € 23,28 € 35,43 €
+GOZ    Vollständige Unterfütterung
+5280   einer Prothese               BEMA 100-d     27015,19 € 34,93 € 53,15 €
+GOZ    Funktionelle Randgestaltung
+5290   einer Prothese im Oberkiefer BEMA 100-e     450                     88,58 €
+                                                         25,31 € 58,21 €
+GOZ    Funktionelle Randgestaltung
+5300   einer Prothese im UnterkieferBEMA 100-f     54030,37 € 69,85 € 106,3 €
+GOZ    Defektprothese mit
+5310   Unterfütterung               BEMA 103-b     73041,06 €   94,43 € 143,7 €
+GOZ    Obturator zum Verschluss                       123,73    284,59 433,06
+5320   von Defekten des Gaumens BEMA 102          2200€         €       €
+GOZ    Resektionsprothese bei                         157,48            551,17
+5330   Defekten der Kiefer          BEMA 103-c    2800€         362,2 € €
+GOZ    Prothese zum Verschluss                        410,57            1436,99
+5340   extraoraler Weichteildefekte BEMA 104-b    7300€         944,3 € €
+GOZ
+6000   Profil- oder Enfacefotografie BEMA 116       804,5 €     10,35 € 15,75 €
+       Anwendung von Methoden
+GOZ    zur Analyse von
+6010   Kiefermodellen                BEMA 117      18010,12 € 23,28 € 35,43 €
+       Anwendung von Methoden
+GOZ    zur Untersuchung des
+6020   Gesichtsschädels              BEMA 118      36020,25 € 46,57 € 70,87 €
+       Maßnahmen zur Umformung
+GOZ    eines Kiefers, geringer                                174,63 265,74
+6030   Umfang                        BEMA 119-a   135075,93 € €      €
+       Maßnahmen zur Umformung
+GOZ    eines Kiefers, mittlerer                       118,11    271,65     413,38
+6040   Umfang                        BEMA 119-b   2100€         €          €
+GOZ    Maßnahmen zur Umformung                        202,47    465,68     708,65
+6050   eines Kiefers, hoher Umfang BEMA 119-c     3600€         €          €
+       Einstellung in den Regelbiss
+GOZ    in Wachstumsphase,                             101,24 232,84 354,33
+6060   geringer Umfang               N. a.        1800€      €      €
+       Einstellung in den Regelbiss
+GOZ    in Wachstumsphase,                             146,23 336,33
+6070   mittlerer Umfang              N. a.        2600€      €      511,8 €
+       Einstellung in den Regelbiss
+GOZ    in Wachstumsphase, hoher                       202,47 465,68 708,65
+6080   Umfang                        N. a.        3600€       €       €
+GOZ    Einstellung der Okklusion                                      137,79
+6090   durch alveolären Ausgleich N. a.            70039,37 € 90,55 € €
+GOZ    Eingliederung eines
+6100   Klebebrackets                 BEMA 126-a    1659,28 € 21,34 € 32,48 €
+       Entfernung eines
+GOZ    Klebebrackets einschließlich
+6110   Polieren                      BEMA 126-d     703,94 € 9,05 € 13,78 €
+GOZ
+6120   Eingliederung eines Bandes BEMA 126-b       23012,94 € 29,75 € 45,27 €
+GOZ    Entfernung eines Bandes
+6130   einschließlich Polieren     N. a.            201,12 € 2,59 € 3,94 €
+GOZ    Eingliederung eines
+6140   Teilbogens                  BEMA 127-a      21011,81 € 27,16 € 41,34 €
+GOZ    Eingliederung eines
+6150   ungeteilten Bogens          BEMA 128-a      50028,12 € 64,68 € 98,42 €
+GOZ    Eingliederung einer intra-
+6160   /extraoralen Verankerung    BEMA 130        37020,81 € 47,86 € 72,83 €
+GOZ    Eingliederung einer Kopf-
+6170   Kinn-Kappe                  BEMA 130        50028,12 € 64,68 € 98,42 €
+       Maßnahmen an
+GOZ    herausnehmbaren
+6180   Behandlungsgeräten          BEMA 125        27015,19 € 34,93 € 53,15 €
+GOZ    Beratendes und belehrendes
+6190   Gespräch mit Anweisungen BEMA 121           1407,87 € 18,11 € 27,56 €
+GOZ    Hilfsmittel zur Beseitigung
+6200   von Funktionsstörungen      N. a.           45025,31 € 58,21 € 88,58 €
+GOZ    Kontrolle des
+6210   Behandlungsverlaufs         BEMA 122-a       905,06 € 11,64 € 17,72 €
+       Vorbereitende Maßnahmen
+GOZ    (z. B. Abformung,
+6220   Bissnahme)                  BEMA 122-b      18010,12 € 23,28 € 35,43 €
+       Eingliederung von
+GOZ    kieferorthopädischen
+6230   Behandlungsmitteln          BEMA 122-c      18010,12 € 23,28 € 35,43 €
+GOZ    Verhütung von Folgen
+6240   vorzeitigen Zahnverlustes   BEMA 123-a      27015,19 € 34,93 € 53,15 €
+GOZ
+6250   Beseitigung des Diastemas N. a.           45025,31 € 58,21 € 88,58 €
+       Einordnung eines
+GOZ    verlagerten Zahnes in den                            142,29 216,53
+6260   Zahnbogen                 N. a.          110061,87 € €      €
+GOZ    Aufbissbehelf OHNE
+7000   adjustierte Oberfläche    BEMA K2         270                53,15 €
+                                                    15,19 € 34,93 €
+GOZ    Aufbissbehelf MIT                                    103,49 157,48
+7010   adjustierter Oberfläche        BEMA K1    80044,99 € €       €
+GOZ    Umarbeitung einer Prothese
+7020   zum Aufbissbehelf              BEMA K3    45025,31 € 58,21 € 88,58 €
+       Wiederherstellung der
+GOZ    Funktion eines
+7030   Aufbissbehelfes                BEMA K6    37020,81 € 47,86 € 72,83 €
+GOZ    Kontrolle eines
+7040   Aufbissbehelfes                BEMA K7     653,66 € 8,41 € 12,8 €
+       Aufbissbehelf mit adjustierter
+GOZ    Oberfläche: Subtraktive
+7050   Maßnahmen                      BEMA K8    18010,12 € 23,28 € 35,43 €
+       Aufbissbehelf mit adjustierter
+GOZ    Oberfläche: Additive
+7060   Maßnahmen                      BEMA K9    41023,06 € 53,04 € 80,71 €
+       Semipermanente Schiene
+GOZ    unter Anwendung der
+7070   Ätztechnik                     BEMA K4     905,06 € 11,64 € 17,72 €
+       Festsitzendes
+GOZ    laborgefertigtes Provisorium                                 118,11
+7080   im indirekten Verfahren        N. a.      60033,75 € 77,61 € €
+GOZ    Laborgefertigtes Provisorium
+7090   im indirekten Verfahren        N. a.      27015,19 € 34,93 € 53,15 €
+GOZ    Wiederherstellung eines
+7100   Langzeitprovisoriums           N. a.      20011,25 € 25,87 € 39,37 €
+GOZ
+8000   Klinische Funktionsanalyse N. a.          50028,12 € 64,68 € 98,42 €
+GOZ
+8010   Zentrallage des Unterkiefers BEMA 98-d    18010,12 € 23,28 € 35,43 €
+GOZ    Arbiträre
+8020   ScharnierachsenbestimmungN. a.            30016,87 € 38,81 € 59,05 €
+GOZ    Kinematische                                                 108,27
+8030   Achsenbestimmung             N. a.        55030,93 € 71,15 € €
+GOZ    Achsenbestimmung,                                            108,27
+8035   elektronisch                 N. a.        55030,93 € 71,15 € €
+GOZ
+8050   Halbindividueller Artikulator N. a.       50028,12 € 64,68 € 98,42 €
+GOZ                                                                 147,64
+8060   Voll adjustierbarer Artikulator N. a.     75042,18 € 97,02 € €
+GOZ    Aufzeichnung von                                     109,95 167,32
+8065   Unterkieferbewegungen           N. a.     85047,81 € €       €
+GOZ
+8080   Maßnahmen an Modellen          N. a.      25014,06 € 32,34 € 49,21 €
+GOZ
+8090   Aufbau von FunktionsflächenN. a.          25014,06 € 32,34 € 49,21 €
+GOZ
+8100   Abschleifmaßnahmen             N. a.       201,12 € 2,59 € 3,94 €
+GOZ                                                         114,35 174,01
+9000   Planung von Implantaten       N. a.       88449,72 € €      €
+GOZ    Bohrschablone für
+9003   Implantate                    N. a.       1005,62 € 12,94 € 19,68 €
+GOZ    3D-Navigationsschablone für
+9005   Implantate                    N. a.       30016,87 € 38,81 € 59,05 €
+GOZ    Präparieren einer Kavität für                        199,86 304,13
+9010   Implantate                    N. a.      154586,89 € €       €
+GOZ    Implantat zum temporären                                     101,38
+9020   Verbleib                      N. a.       51528,96 € 66,62 € €
+GOZ    Freilegung und Abutment bei                                  123,23
+9040   Implantaten                   N. a.       62635,21 € 80,98 € €
+       Auswechseln von
+GOZ    Aufbauelementen bei
+9050   Implantaten                   N. a.       31317,6 € 40,49 € 61,61 €
+       Auswechseln von
+GOZ    Sekundärteilen zur
+9060   Reparatur                     N. a.       31317,6 € 40,49 € 61,61 €
+GOZ    Knochenaufbereitung und
+9090   Implantation                  N. a.       40022,5 € 51,74 € 78,74 €
+       Aufbau des
+GOZ    Alveolarfortsatzes bei                       151,52 348,49 530,31
+9100   Implantaten                   N. a.      2694€      €      €
+GOZ    Interner Sinuslift bei                                  194,04       295,27
+9110   Implantaten                 N. a.           150084,36 € €            €
+GOZ    Externer Sinuslift bei                          168,73 388,07        590,54
+9120   Implantaten                 N. a.           3000€       €            €
+GOZ                                                            199,21       303,14
+9130   Bone Splitting              N. a.           154086,61 € €            €
+GOZ                                                                         127,95
+9140   Entnahme von Knochen        N. a.            650                     €
+                                                          36,56 € 84,08 €
+GOZ    Stabilisierung bei                                              132,87
+9150   Osteosynthese               N. a.            67537,96 € 87,32 € €
+GOZ    Material-Entfernung
+9160   (Schleimhaut)               N. a.            33018,56 € 42,69 € 64,96 €
+GOZ    Material-Entfernung
+9170   (Osteotomie)                N. a.            50028,12 € 64,68 € 98,42 €
+GOZ    OP-Zuschlag bei 250 bis 499
+0500   Punkten                     N. a.   N. a.          N. a.   N. a.     N. a.
+GOZ    OP-Zuschlag bei 500 bis 799
+0510   Punkten                     N. a.   N. a.          N. a.   N. a.     N. a.
+GOZ    OP-Zuschlag bei 800 bis
+0520   1199 Punkten                N. a.   N. a.          N. a.   N. a.     N. a.
+GOZ    OP-Zuschlag ab 1200
+0530   Punkten                     N. a.   N. a.          N. a.   N. a.     N. a.
+
